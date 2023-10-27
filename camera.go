@@ -1,4 +1,4 @@
-package glHelper
+package broccoliHelper
 
 import (
 	"github.com/go-gl/mathgl/mgl32"

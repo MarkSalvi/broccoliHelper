@@ -1,4 +1,4 @@
-package glHelper
+package broccoliHelper
 
 import (
 	"errors"

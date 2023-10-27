@@ -1,4 +1,4 @@
-module github.com/MarkSalvi/glHelper
+module github.com/MarkSalvi/broccoliHelper
 
 go 1.19
 
